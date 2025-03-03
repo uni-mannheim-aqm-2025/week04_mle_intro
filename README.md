@@ -2,7 +2,7 @@
 
 As in QM, we will work with GitHub. I assume that by now you downloaded and installed R and Rstudio and have your personal GitHub account.
 
-**All of you who did not take QM in 2023 should receive an e-mail with instructions on how to set-up your GitHub account. If this is not the case by Friday: Send either one of us an e-mail after this class.**
+**All of you who did not take QM in 2024 should receive an e-mail with instructions on how to set-up your GitHub account. If this is not the case by Friday: Send either one of us an e-mail after this class.**
 
 The course has its own page on GitHub, you can find it here: [https://github.com/uni-mannheim-aqm-2024](https://github.com/uni-mannheim-aqm-2024). This is the place where you can find all relevant materials for the lab sessions. It is also the place where you download and hand-in your homework assignments. 
 
