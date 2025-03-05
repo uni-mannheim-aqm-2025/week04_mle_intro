@@ -3,7 +3,7 @@ title: "AQM Week 04 -- Introduction to Maximum Likelihood"
 author: 
   - "Domantas Undzėnas"
   - "Muhammad Muhammad"
-date: "March 6|7, 2025"
+date: "March 6 | 7, 2025"
 output:
   html_document:
     toc: true
@@ -14,7 +14,7 @@ output:
     toc: yes
 ---
 
-```{r setup, echo=FALSE, message=FALSE, results='hide'}
+```{r setup, echo=FALSE, message=FALSE, results='hide', warning = F}
 # The first line sets an option for the final document that can be produced from
 # the .Rmd file. Don't worry about it.
 knitr::opts_chunk$set(echo = TRUE)
